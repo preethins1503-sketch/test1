@@ -1,2 +1,0 @@
-This is my third sample file.
-I am practicing Git commands.
